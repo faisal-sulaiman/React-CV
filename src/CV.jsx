@@ -1,6 +1,6 @@
 import React, { useRef } from "react";
 import { useReactToPrint } from "react-to-print";
-import ProfileImg from "./Profile.jpg";
+import ProfileImg from "./profile.jpg";
 import {
   FaGithub,
   FaLinkedin,
